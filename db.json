@@ -1,0 +1,82 @@
+{
+	"worker": [
+		{
+			"ip": "10.1.1.1",
+			"mac": "AB:CD:EF:12:34:56",
+			"brand": "bitmain",
+			"model": "S17"
+		},
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                },
+		{
+                        "ip": "10.1.1.1",
+                        "mac": "AB:CD:EF:12:34:56",
+                        "brand": "bitmain",
+                        "model": "S17"
+                }
+	]
+}
